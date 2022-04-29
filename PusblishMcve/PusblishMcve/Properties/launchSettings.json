@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PusblishMcve (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PusblishMcve (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
